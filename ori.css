@@ -8,9 +8,5 @@
 
 body {
   background-color: #ffffff;
-  color: #f94f16;
-  font-family: "Roboto", Arial, Helvetica, sans-serif;
-  font-size: 40px;
-  font-weight: 400;
-  text-shadow: 1px 1px 15px rga(0, 0, 0, 0.9);
+  color: #000000;
 }
